@@ -1,5 +1,5 @@
 import pandas as pd
-import skops.io as sio
+import skopcs.io as sio
 from sklearn.compose import ColumnTransformer
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.impute import SimpleImputer
